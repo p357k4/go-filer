@@ -1,0 +1,19 @@
+{
+    "landing_dir": "files/landing",
+    "incoming_dir": "files/incoming",
+    "accepted_dir": "files/accepted",
+    "rejected_dir": "files/rejected",
+    "uploaded_dir": "files/uploaded",
+    "failed_dir": "files/failed",
+    "confirmed_dir": "files/confirmed",
+    "completed_dir": "files/completed",
+    "manifest_incoming": "manifests/incoming",
+    "manifest_completed": "manifests/completed",
+    "manifest_uploaded": "manifests/uploaded",
+    "manifest_failed": "manifests/failed",
+    "gcs_bucket": "your-gcs-bucket",
+    "service_account_key": "path/to/service_account.json",
+    "log_level": "INFO",
+    "max_upload_attempts": 3
+  }
+  
